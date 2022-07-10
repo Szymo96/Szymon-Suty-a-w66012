@@ -1,0 +1,7 @@
+﻿  Konto.cpp
+C:\Users\w66012\Desktop\Szymon Sutyła w66012\Szymon Sutyła w66012\Szymon Sutyła w66012\Konto.h(24,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\w66012\Desktop\Szymon Sutyła w66012\Szymon Sutyła w66012\Szymon Sutyła w66012\Konto.cpp(61,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Szymon Sutyła w66012.cpp
+C:\Users\w66012\Desktop\Szymon Sutyła w66012\Szymon Sutyła w66012\Szymon Sutyła w66012\Konto.h(24,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Szymon Sutyła w66012.vcxproj -> C:\Users\w66012\Desktop\Szymon Sutyła w66012\Szymon Sutyła w66012\Debug\Szymon Sutyła w66012.exe
